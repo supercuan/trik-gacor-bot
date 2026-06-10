@@ -1,151 +1,150 @@
 {
   "providers": {
     "pragmatic": [
-  "Gates of Olympus",
-  "Gates of Olympus 1000",
-  "Gates of Olympus Super Scatter",
-  "Starlight Princess",
-  "Starlight Princess 1000",
-  "Starlight Princess Super Scatter",
-  "Sugar Rush",
-  "Sugar Rush 1000",
-  "Sugar Rush Super Scatter",
-  "Mahjong Wins",
-  "Mahjong Wins 2",
-  "Mahjong Wins 3",
-  "Sweet Bonanza",
-  "Sweet Bonanza 1000",
-  "Sweet Bonanza 2500",
-  "Big Bass Bonanza",
-  "Bigger Bass Bonanza",
-  "Big Bass Splash",
-  "Big Bass Christmas Bash",
-  "Big Bass Halloween",
-  "Big Bass Floats My Boat",
-  "Big Bass Amazon Xtreme",
-  "Big Bass Day At The Races",
-  "Big Bass Hold & Spinner",
-  "The Dog House",
-  "The Dog House Megaways",
-  "The Dog House Multihold",
-  "Wolf Gold",
-  "Wild West Gold",
-  "Wild West Gold Megaways",
-  "5 Lions",
-  "5 Lions Gold",
-  "5 Lions Megaways",
-  "5 Lions Dance",
-  "Aztec Gems",
-  "Aztec Bonanza",
-  "Fruit Party",
-  "Fruit Party 2",
-  "Gems Bonanza",
-  "Power of Thor Megaways",
-  "Madame Destiny Megaways",
-  "Mustang Gold",
-  "Joker's Jewels",
-  "Chilli Heat",
-  "Chilli Heat Megaways",
-  "Extra Juicy",
-  "Extra Juicy Megaways",
-  "Floating Dragon",
-  "Cleocatra",
-  "Hot To Burn",
-  "Hot To Burn Extreme",
-  "Buffalo King",
-  "Buffalo King Megaways",
-  "Zeus vs Hades Gods of War",
-  "Wisdom of Athena",
-  "Pirates Pub",
-  "Dragon Hero",
-  "Dragon Tiger Luck",
-  "Treasure Wild",
-  "Gold Party",
-  "Candy Blitz Bombs",
-  "Juicy Fruits",
-  "Wild Wild Riches",
-  "Wild Wild Riches Megaways",
-  "888 Dragons",
-  "8 Dragons",
-  "7 Piggies",
-  "7 Monkeys",
-  "3 Kingdoms",
-  "3 Genie Wishes"
-],
-
-"pgsoft": [
-  "Mahjong Ways",
-  "Mahjong Ways 2",
-  "Fortune Tiger",
-  "Fortune Rabbit",
-  "Fortune Ox",
-  "Fortune Mouse",
-  "Fortune Dragon",
-  "Fortune Snake",
-  "Lucky Neko",
-  "Wild Bandito",
-  "Caishen Wins",
-  "Caishen Wins 2",
-  "Dragon Hatch",
-  "Dragon Hatch 2",
-  "Ganesha Gold",
-  "Ganesha Fortune",
-  "Treasures of Aztec",
-  "Rise of Apollo",
-  "Secret of Cleopatra",
-  "Captain's Bounty",
-  "Queen of Bounty",
-  "Jurassic Kingdom",
-  "Mr. Hallow-Win",
-  "Rooster Rumble",
-  "Genie 3 Wishes",
-  "Leprechaun Riches",
-  "Midas Fortune",
-  "Candy Burst",
-  "Crypto Gold",
-  "Hawaiian Tiki",
-  "Hip Hop Panda",
-  "Honey Trap of Diao Chan",
-  "Opera Dynasty",
-  "Phoenix Rises",
-  "Legend of Perseus",
-  "The Great Icescape",
-  "Vampire's Charm",
-  "Wild Fireworks",
-  "Emoji Riches",
-  "Songkran Splash",
-  "Battleground Royale",
-  "Muay Thai Champion",
-  "Ninja Raccoon Frenzy",
-  "Totem Wonders",
-  "Gem Saviour",
-  "Gem Saviour Conquest",
-  "Legend of Hou Yi",
-  "Prosperity Lion",
-  "Dreams of Macau",
-  "Lucky Piggy",
-  "Rave Party Fever",
-  "Cruise Royale",
-  "Forge of Wealth",
-  "Wild Coaster",
-  "Safari Wilds",
-  "Heist Stakes",
-  "Pinata Wins",
-  "Dino Reels",
-  "Asgardian Rising",
-  "Gladiator's Glory",
-  "Ways of the Qilin",
-  "Jack Frost's Winter",
-  "Mermaid Riches",
-  "Tree of Fortune",
-  "Reel Love",
-  "Double Fortune",
-  "Plushie Frenzy",
-  "Bali Vacation",
-  "Galactic Gems",
-  "Medusa",
-  "Medusa II"
-]
+      "Gates of Olympus",
+      "Gates of Olympus 1000",
+      "Gates of Olympus Super Scatter",
+      "Starlight Princess",
+      "Starlight Princess 1000",
+      "Starlight Princess Super Scatter",
+      "Sugar Rush",
+      "Sugar Rush 1000",
+      "Sugar Rush Super Scatter",
+      "Mahjong Wins",
+      "Mahjong Wins 2",
+      "Mahjong Wins 3",
+      "Sweet Bonanza",
+      "Sweet Bonanza 1000",
+      "Sweet Bonanza 2500",
+      "Big Bass Bonanza",
+      "Bigger Bass Bonanza",
+      "Big Bass Splash",
+      "Big Bass Christmas Bash",
+      "Big Bass Halloween",
+      "Big Bass Floats My Boat",
+      "Big Bass Amazon Xtreme",
+      "Big Bass Day At The Races",
+      "Big Bass Hold & Spinner",
+      "The Dog House",
+      "The Dog House Megaways",
+      "The Dog House Multihold",
+      "Wolf Gold",
+      "Wild West Gold",
+      "Wild West Gold Megaways",
+      "5 Lions",
+      "5 Lions Gold",
+      "5 Lions Megaways",
+      "5 Lions Dance",
+      "Aztec Gems",
+      "Aztec Bonanza",
+      "Fruit Party",
+      "Fruit Party 2",
+      "Gems Bonanza",
+      "Power of Thor Megaways",
+      "Madame Destiny Megaways",
+      "Mustang Gold",
+      "Joker's Jewels",
+      "Chilli Heat",
+      "Chilli Heat Megaways",
+      "Extra Juicy",
+      "Extra Juicy Megaways",
+      "Floating Dragon",
+      "Cleocatra",
+      "Hot To Burn",
+      "Hot To Burn Extreme",
+      "Buffalo King",
+      "Buffalo King Megaways",
+      "Zeus vs Hades Gods of War",
+      "Wisdom of Athena",
+      "Pirates Pub",
+      "Dragon Hero",
+      "Dragon Tiger Luck",
+      "Treasure Wild",
+      "Gold Party",
+      "Candy Blitz Bombs",
+      "Juicy Fruits",
+      "Wild Wild Riches",
+      "Wild Wild Riches Megaways",
+      "888 Dragons",
+      "8 Dragons",
+      "7 Piggies",
+      "7 Monkeys",
+      "3 Kingdoms",
+      "3 Genie Wishes"
+    ],
+    "pgsoft": [
+      "Mahjong Ways",
+      "Mahjong Ways 2",
+      "Fortune Tiger",
+      "Fortune Rabbit",
+      "Fortune Ox",
+      "Fortune Mouse",
+      "Fortune Dragon",
+      "Fortune Snake",
+      "Lucky Neko",
+      "Wild Bandito",
+      "Caishen Wins",
+      "Caishen Wins 2",
+      "Dragon Hatch",
+      "Dragon Hatch 2",
+      "Ganesha Gold",
+      "Ganesha Fortune",
+      "Treasures of Aztec",
+      "Rise of Apollo",
+      "Secret of Cleopatra",
+      "Captain's Bounty",
+      "Queen of Bounty",
+      "Jurassic Kingdom",
+      "Mr. Hallow-Win",
+      "Rooster Rumble",
+      "Genie 3 Wishes",
+      "Leprechaun Riches",
+      "Midas Fortune",
+      "Candy Burst",
+      "Crypto Gold",
+      "Hawaiian Tiki",
+      "Hip Hop Panda",
+      "Honey Trap of Diao Chan",
+      "Opera Dynasty",
+      "Phoenix Rises",
+      "Legend of Perseus",
+      "The Great Icescape",
+      "Vampire's Charm",
+      "Wild Fireworks",
+      "Emoji Riches",
+      "Songkran Splash",
+      "Battleground Royale",
+      "Muay Thai Champion",
+      "Ninja Raccoon Frenzy",
+      "Totem Wonders",
+      "Gem Saviour",
+      "Gem Saviour Conquest",
+      "Legend of Hou Yi",
+      "Prosperity Lion",
+      "Dreams of Macau",
+      "Lucky Piggy",
+      "Rave Party Fever",
+      "Cruise Royale",
+      "Forge of Wealth",
+      "Wild Coaster",
+      "Safari Wilds",
+      "Heist Stakes",
+      "Pinata Wins",
+      "Dino Reels",
+      "Asgardian Rising",
+      "Gladiator's Glory",
+      "Ways of the Qilin",
+      "Jack Frost's Winter",
+      "Mermaid Riches",
+      "Tree of Fortune",
+      "Reel Love",
+      "Double Fortune",
+      "Plushie Frenzy",
+      "Bali Vacation",
+      "Galactic Gems",
+      "Medusa",
+      "Medusa II"
+    ]
   },
   "families": {
     "zeus": {
@@ -215,47 +214,1030 @@
     "gatot": "gatot",
     "mw": "mahjong",
     "mahjong": "mahjong"
-  }
-  ,
+  },
   "single_games": {
-    "mahjongways": { "name": "Mahjong Ways", "provider": "pgsoft" },
-    "mahjongways2": { "name": "Mahjong Ways 2", "provider": "pgsoft" },
-    "luckyneko": { "name": "Lucky Neko", "provider": "pgsoft" },
-    "wildbandito": { "name": "Wild Bandito", "provider": "pgsoft" },
-    "fortunetiger": { "name": "Fortune Tiger", "provider": "pgsoft" },
-    "caishenwins": { "name": "Caishen Wins", "provider": "pgsoft" },
-
-    "gates1000": { "name": "Gates of Olympus 1000", "provider": "pragmatic" },
-    "gatesscatter": { "name": "Gates of Olympus Super Scatter", "provider": "pragmatic" },
-    "starlight1000": { "name": "Starlight Princess 1000", "provider": "pragmatic" },
-    "sweet1000": { "name": "Sweet Bonanza 1000", "provider": "pragmatic" },
-    "sweet2500": { "name": "Sweet Bonanza 2500", "provider": "pragmatic" }
-  }
-  ,
+    "gatesofolympus": {
+      "name": "Gates of Olympus",
+      "provider": "pragmatic"
+    },
+    "gatesofolympus1000": {
+      "name": "Gates of Olympus 1000",
+      "provider": "pragmatic"
+    },
+    "gatesofolympussuperscatter": {
+      "name": "Gates of Olympus Super Scatter",
+      "provider": "pragmatic"
+    },
+    "starlightprincess": {
+      "name": "Starlight Princess",
+      "provider": "pragmatic"
+    },
+    "starlightprincess1000": {
+      "name": "Starlight Princess 1000",
+      "provider": "pragmatic"
+    },
+    "starlightprincesssuperscatter": {
+      "name": "Starlight Princess Super Scatter",
+      "provider": "pragmatic"
+    },
+    "sugarrush": {
+      "name": "Sugar Rush",
+      "provider": "pragmatic"
+    },
+    "sugarrush1000": {
+      "name": "Sugar Rush 1000",
+      "provider": "pragmatic"
+    },
+    "sugarrushsuperscatter": {
+      "name": "Sugar Rush Super Scatter",
+      "provider": "pragmatic"
+    },
+    "mahjongwins": {
+      "name": "Mahjong Wins",
+      "provider": "pragmatic"
+    },
+    "mahjongwins2": {
+      "name": "Mahjong Wins 2",
+      "provider": "pragmatic"
+    },
+    "mahjongwins3": {
+      "name": "Mahjong Wins 3",
+      "provider": "pragmatic"
+    },
+    "sweetbonanza": {
+      "name": "Sweet Bonanza",
+      "provider": "pragmatic"
+    },
+    "sweetbonanza1000": {
+      "name": "Sweet Bonanza 1000",
+      "provider": "pragmatic"
+    },
+    "sweetbonanza2500": {
+      "name": "Sweet Bonanza 2500",
+      "provider": "pragmatic"
+    },
+    "bigbassbonanza": {
+      "name": "Big Bass Bonanza",
+      "provider": "pragmatic"
+    },
+    "biggerbassbonanza": {
+      "name": "Bigger Bass Bonanza",
+      "provider": "pragmatic"
+    },
+    "bigbasssplash": {
+      "name": "Big Bass Splash",
+      "provider": "pragmatic"
+    },
+    "bigbasschristmasbash": {
+      "name": "Big Bass Christmas Bash",
+      "provider": "pragmatic"
+    },
+    "bigbasshalloween": {
+      "name": "Big Bass Halloween",
+      "provider": "pragmatic"
+    },
+    "bigbassfloatsmyboat": {
+      "name": "Big Bass Floats My Boat",
+      "provider": "pragmatic"
+    },
+    "bigbassamazonxtreme": {
+      "name": "Big Bass Amazon Xtreme",
+      "provider": "pragmatic"
+    },
+    "bigbassdayattheraces": {
+      "name": "Big Bass Day At The Races",
+      "provider": "pragmatic"
+    },
+    "bigbassholdandspinner": {
+      "name": "Big Bass Hold & Spinner",
+      "provider": "pragmatic"
+    },
+    "thedoghouse": {
+      "name": "The Dog House",
+      "provider": "pragmatic"
+    },
+    "thedoghousemegaways": {
+      "name": "The Dog House Megaways",
+      "provider": "pragmatic"
+    },
+    "thedoghousemultihold": {
+      "name": "The Dog House Multihold",
+      "provider": "pragmatic"
+    },
+    "wolfgold": {
+      "name": "Wolf Gold",
+      "provider": "pragmatic"
+    },
+    "wildwestgold": {
+      "name": "Wild West Gold",
+      "provider": "pragmatic"
+    },
+    "wildwestgoldmegaways": {
+      "name": "Wild West Gold Megaways",
+      "provider": "pragmatic"
+    },
+    "5lions": {
+      "name": "5 Lions",
+      "provider": "pragmatic"
+    },
+    "5lionsgold": {
+      "name": "5 Lions Gold",
+      "provider": "pragmatic"
+    },
+    "5lionsmegaways": {
+      "name": "5 Lions Megaways",
+      "provider": "pragmatic"
+    },
+    "5lionsdance": {
+      "name": "5 Lions Dance",
+      "provider": "pragmatic"
+    },
+    "aztecgems": {
+      "name": "Aztec Gems",
+      "provider": "pragmatic"
+    },
+    "aztecbonanza": {
+      "name": "Aztec Bonanza",
+      "provider": "pragmatic"
+    },
+    "fruitparty": {
+      "name": "Fruit Party",
+      "provider": "pragmatic"
+    },
+    "fruitparty2": {
+      "name": "Fruit Party 2",
+      "provider": "pragmatic"
+    },
+    "gemsbonanza": {
+      "name": "Gems Bonanza",
+      "provider": "pragmatic"
+    },
+    "powerofthormegaways": {
+      "name": "Power of Thor Megaways",
+      "provider": "pragmatic"
+    },
+    "madamedestinymegaways": {
+      "name": "Madame Destiny Megaways",
+      "provider": "pragmatic"
+    },
+    "mustanggold": {
+      "name": "Mustang Gold",
+      "provider": "pragmatic"
+    },
+    "jokersjewels": {
+      "name": "Joker's Jewels",
+      "provider": "pragmatic"
+    },
+    "chilliheat": {
+      "name": "Chilli Heat",
+      "provider": "pragmatic"
+    },
+    "chilliheatmegaways": {
+      "name": "Chilli Heat Megaways",
+      "provider": "pragmatic"
+    },
+    "extrajuicy": {
+      "name": "Extra Juicy",
+      "provider": "pragmatic"
+    },
+    "extrajuicymegaways": {
+      "name": "Extra Juicy Megaways",
+      "provider": "pragmatic"
+    },
+    "floatingdragon": {
+      "name": "Floating Dragon",
+      "provider": "pragmatic"
+    },
+    "cleocatra": {
+      "name": "Cleocatra",
+      "provider": "pragmatic"
+    },
+    "hottoburn": {
+      "name": "Hot To Burn",
+      "provider": "pragmatic"
+    },
+    "hottoburnextreme": {
+      "name": "Hot To Burn Extreme",
+      "provider": "pragmatic"
+    },
+    "buffaloking": {
+      "name": "Buffalo King",
+      "provider": "pragmatic"
+    },
+    "buffalokingmegaways": {
+      "name": "Buffalo King Megaways",
+      "provider": "pragmatic"
+    },
+    "zeusvshadesgodsofwar": {
+      "name": "Zeus vs Hades Gods of War",
+      "provider": "pragmatic"
+    },
+    "wisdomofathena": {
+      "name": "Wisdom of Athena",
+      "provider": "pragmatic"
+    },
+    "piratespub": {
+      "name": "Pirates Pub",
+      "provider": "pragmatic"
+    },
+    "dragonhero": {
+      "name": "Dragon Hero",
+      "provider": "pragmatic"
+    },
+    "dragontigerluck": {
+      "name": "Dragon Tiger Luck",
+      "provider": "pragmatic"
+    },
+    "treasurewild": {
+      "name": "Treasure Wild",
+      "provider": "pragmatic"
+    },
+    "goldparty": {
+      "name": "Gold Party",
+      "provider": "pragmatic"
+    },
+    "candyblitzbombs": {
+      "name": "Candy Blitz Bombs",
+      "provider": "pragmatic"
+    },
+    "juicyfruits": {
+      "name": "Juicy Fruits",
+      "provider": "pragmatic"
+    },
+    "wildwildriches": {
+      "name": "Wild Wild Riches",
+      "provider": "pragmatic"
+    },
+    "wildwildrichesmegaways": {
+      "name": "Wild Wild Riches Megaways",
+      "provider": "pragmatic"
+    },
+    "888dragons": {
+      "name": "888 Dragons",
+      "provider": "pragmatic"
+    },
+    "8dragons": {
+      "name": "8 Dragons",
+      "provider": "pragmatic"
+    },
+    "7piggies": {
+      "name": "7 Piggies",
+      "provider": "pragmatic"
+    },
+    "7monkeys": {
+      "name": "7 Monkeys",
+      "provider": "pragmatic"
+    },
+    "3kingdoms": {
+      "name": "3 Kingdoms",
+      "provider": "pragmatic"
+    },
+    "3geniewishes": {
+      "name": "3 Genie Wishes",
+      "provider": "pragmatic"
+    },
+    "mahjongways": {
+      "name": "Mahjong Ways",
+      "provider": "pgsoft"
+    },
+    "mahjongways2": {
+      "name": "Mahjong Ways 2",
+      "provider": "pgsoft"
+    },
+    "fortunetiger": {
+      "name": "Fortune Tiger",
+      "provider": "pgsoft"
+    },
+    "fortunerabbit": {
+      "name": "Fortune Rabbit",
+      "provider": "pgsoft"
+    },
+    "fortuneox": {
+      "name": "Fortune Ox",
+      "provider": "pgsoft"
+    },
+    "fortunemouse": {
+      "name": "Fortune Mouse",
+      "provider": "pgsoft"
+    },
+    "fortunedragon": {
+      "name": "Fortune Dragon",
+      "provider": "pgsoft"
+    },
+    "fortunesnake": {
+      "name": "Fortune Snake",
+      "provider": "pgsoft"
+    },
+    "luckyneko": {
+      "name": "Lucky Neko",
+      "provider": "pgsoft"
+    },
+    "wildbandito": {
+      "name": "Wild Bandito",
+      "provider": "pgsoft"
+    },
+    "caishenwins": {
+      "name": "Caishen Wins",
+      "provider": "pgsoft"
+    },
+    "caishenwins2": {
+      "name": "Caishen Wins 2",
+      "provider": "pgsoft"
+    },
+    "dragonhatch": {
+      "name": "Dragon Hatch",
+      "provider": "pgsoft"
+    },
+    "dragonhatch2": {
+      "name": "Dragon Hatch 2",
+      "provider": "pgsoft"
+    },
+    "ganeshagold": {
+      "name": "Ganesha Gold",
+      "provider": "pgsoft"
+    },
+    "ganeshafortune": {
+      "name": "Ganesha Fortune",
+      "provider": "pgsoft"
+    },
+    "treasuresofaztec": {
+      "name": "Treasures of Aztec",
+      "provider": "pgsoft"
+    },
+    "riseofapollo": {
+      "name": "Rise of Apollo",
+      "provider": "pgsoft"
+    },
+    "secretofcleopatra": {
+      "name": "Secret of Cleopatra",
+      "provider": "pgsoft"
+    },
+    "captainsbounty": {
+      "name": "Captain's Bounty",
+      "provider": "pgsoft"
+    },
+    "queenofbounty": {
+      "name": "Queen of Bounty",
+      "provider": "pgsoft"
+    },
+    "jurassickingdom": {
+      "name": "Jurassic Kingdom",
+      "provider": "pgsoft"
+    },
+    "mrhallowwin": {
+      "name": "Mr. Hallow-Win",
+      "provider": "pgsoft"
+    },
+    "roosterrumble": {
+      "name": "Rooster Rumble",
+      "provider": "pgsoft"
+    },
+    "genie3wishes": {
+      "name": "Genie 3 Wishes",
+      "provider": "pgsoft"
+    },
+    "leprechaunriches": {
+      "name": "Leprechaun Riches",
+      "provider": "pgsoft"
+    },
+    "midasfortune": {
+      "name": "Midas Fortune",
+      "provider": "pgsoft"
+    },
+    "candyburst": {
+      "name": "Candy Burst",
+      "provider": "pgsoft"
+    },
+    "cryptogold": {
+      "name": "Crypto Gold",
+      "provider": "pgsoft"
+    },
+    "hawaiiantiki": {
+      "name": "Hawaiian Tiki",
+      "provider": "pgsoft"
+    },
+    "hiphoppanda": {
+      "name": "Hip Hop Panda",
+      "provider": "pgsoft"
+    },
+    "honeytrapofdiaochan": {
+      "name": "Honey Trap of Diao Chan",
+      "provider": "pgsoft"
+    },
+    "operadynasty": {
+      "name": "Opera Dynasty",
+      "provider": "pgsoft"
+    },
+    "phoenixrises": {
+      "name": "Phoenix Rises",
+      "provider": "pgsoft"
+    },
+    "legendofperseus": {
+      "name": "Legend of Perseus",
+      "provider": "pgsoft"
+    },
+    "thegreaticescape": {
+      "name": "The Great Icescape",
+      "provider": "pgsoft"
+    },
+    "vampirescharm": {
+      "name": "Vampire's Charm",
+      "provider": "pgsoft"
+    },
+    "wildfireworks": {
+      "name": "Wild Fireworks",
+      "provider": "pgsoft"
+    },
+    "emojiriches": {
+      "name": "Emoji Riches",
+      "provider": "pgsoft"
+    },
+    "songkransplash": {
+      "name": "Songkran Splash",
+      "provider": "pgsoft"
+    },
+    "battlegroundroyale": {
+      "name": "Battleground Royale",
+      "provider": "pgsoft"
+    },
+    "muaythaichampion": {
+      "name": "Muay Thai Champion",
+      "provider": "pgsoft"
+    },
+    "ninjaraccoonfrenzy": {
+      "name": "Ninja Raccoon Frenzy",
+      "provider": "pgsoft"
+    },
+    "totemwonders": {
+      "name": "Totem Wonders",
+      "provider": "pgsoft"
+    },
+    "gemsaviour": {
+      "name": "Gem Saviour",
+      "provider": "pgsoft"
+    },
+    "gemsaviourconquest": {
+      "name": "Gem Saviour Conquest",
+      "provider": "pgsoft"
+    },
+    "legendofhouyi": {
+      "name": "Legend of Hou Yi",
+      "provider": "pgsoft"
+    },
+    "prosperitylion": {
+      "name": "Prosperity Lion",
+      "provider": "pgsoft"
+    },
+    "dreamsofmacau": {
+      "name": "Dreams of Macau",
+      "provider": "pgsoft"
+    },
+    "luckypiggy": {
+      "name": "Lucky Piggy",
+      "provider": "pgsoft"
+    },
+    "ravepartyfever": {
+      "name": "Rave Party Fever",
+      "provider": "pgsoft"
+    },
+    "cruiseroyale": {
+      "name": "Cruise Royale",
+      "provider": "pgsoft"
+    },
+    "forgeofwealth": {
+      "name": "Forge of Wealth",
+      "provider": "pgsoft"
+    },
+    "wildcoaster": {
+      "name": "Wild Coaster",
+      "provider": "pgsoft"
+    },
+    "safariwilds": {
+      "name": "Safari Wilds",
+      "provider": "pgsoft"
+    },
+    "heiststakes": {
+      "name": "Heist Stakes",
+      "provider": "pgsoft"
+    },
+    "pinatawins": {
+      "name": "Pinata Wins",
+      "provider": "pgsoft"
+    },
+    "dinoreels": {
+      "name": "Dino Reels",
+      "provider": "pgsoft"
+    },
+    "asgardianrising": {
+      "name": "Asgardian Rising",
+      "provider": "pgsoft"
+    },
+    "gladiatorsglory": {
+      "name": "Gladiator's Glory",
+      "provider": "pgsoft"
+    },
+    "waysoftheqilin": {
+      "name": "Ways of the Qilin",
+      "provider": "pgsoft"
+    },
+    "jackfrostswinter": {
+      "name": "Jack Frost's Winter",
+      "provider": "pgsoft"
+    },
+    "mermaidriches": {
+      "name": "Mermaid Riches",
+      "provider": "pgsoft"
+    },
+    "treeoffortune": {
+      "name": "Tree of Fortune",
+      "provider": "pgsoft"
+    },
+    "reellove": {
+      "name": "Reel Love",
+      "provider": "pgsoft"
+    },
+    "doublefortune": {
+      "name": "Double Fortune",
+      "provider": "pgsoft"
+    },
+    "plushiefrenzy": {
+      "name": "Plushie Frenzy",
+      "provider": "pgsoft"
+    },
+    "balivacation": {
+      "name": "Bali Vacation",
+      "provider": "pgsoft"
+    },
+    "galacticgems": {
+      "name": "Galactic Gems",
+      "provider": "pgsoft"
+    },
+    "medusa": {
+      "name": "Medusa",
+      "provider": "pgsoft"
+    },
+    "medusaii": {
+      "name": "Medusa II",
+      "provider": "pgsoft"
+    }
+  },
   "single_aliases": {
     "mw2": "mahjongways2",
     "mahjong2": "mahjongways2",
     "mahjong ways 2": "mahjongways2",
-
     "mw": "mahjongways",
     "mahjong ways": "mahjongways",
-
     "neko": "luckyneko",
     "lucky neko": "luckyneko",
-
     "tiger": "fortunetiger",
     "fortune tiger": "fortunetiger",
-
     "bandito": "wildbandito",
     "wild bandito": "wildbandito",
-
-    "gates1000": "gates1000",
-    "gates 1000": "gates1000",
-
-    "sweet1000": "sweet1000",
-    "sweet 1000": "sweet1000",
-
-    "starlight1000": "starlight1000",
-    "starlight 1000": "starlight1000"
+    "gates1000": "gatesofolympus1000",
+    "gates 1000": "gatesofolympus1000",
+    "sweet1000": "sweetbonanza1000",
+    "sweet 1000": "sweetbonanza1000",
+    "starlight1000": "starlightprincess1000",
+    "starlight 1000": "starlightprincess1000",
+    "gatesofolympus": "gatesofolympus",
+    "gates of olympus": "gatesofolympus",
+    "goo": "gatesofolympus",
+    "gatesofolympus1000": "gatesofolympus1000",
+    "gates of olympus 1000": "gatesofolympus1000",
+    "goo1": "gatesofolympus1000",
+    "gatesofolympussuperscatter": "gatesofolympussuperscatter",
+    "gates of olympus super scatter": "gatesofolympussuperscatter",
+    "gooss": "gatesofolympussuperscatter",
+    "starlightprincess": "starlightprincess",
+    "starlight princess": "starlightprincess",
+    "sp": "starlightprincess",
+    "starlightprincess1000": "starlightprincess1000",
+    "starlight princess 1000": "starlightprincess1000",
+    "sp1": "starlightprincess1000",
+    "starlightprincesssuperscatter": "starlightprincesssuperscatter",
+    "starlight princess super scatter": "starlightprincesssuperscatter",
+    "spss": "starlightprincesssuperscatter",
+    "sugarrush": "sugarrush",
+    "sugar rush": "sugarrush",
+    "sr": "sugarrush",
+    "sugarrush1000": "sugarrush1000",
+    "sugar rush 1000": "sugarrush1000",
+    "sr1": "sugarrush1000",
+    "sugarrushsuperscatter": "sugarrushsuperscatter",
+    "sugar rush super scatter": "sugarrushsuperscatter",
+    "srss": "sugarrushsuperscatter",
+    "mahjongwins": "mahjongwins",
+    "mahjong wins": "mahjongwins",
+    "mahjongwins2": "mahjongwins2",
+    "mahjong wins 2": "mahjongwins2",
+    "mahjongwins3": "mahjongwins3",
+    "mahjong wins 3": "mahjongwins3",
+    "mw3": "mahjongwins3",
+    "sweetbonanza": "sweetbonanza",
+    "sweet bonanza": "sweetbonanza",
+    "sb": "sweetbonanza",
+    "sweetbonanza1000": "sweetbonanza1000",
+    "sweet bonanza 1000": "sweetbonanza1000",
+    "sb1": "sweetbonanza1000",
+    "sweetbonanza2500": "sweetbonanza2500",
+    "sweet bonanza 2500": "sweetbonanza2500",
+    "sb2": "sweetbonanza2500",
+    "bigbassbonanza": "bigbassbonanza",
+    "big bass bonanza": "bigbassbonanza",
+    "bbb": "bigbassbonanza",
+    "biggerbassbonanza": "biggerbassbonanza",
+    "bigger bass bonanza": "biggerbassbonanza",
+    "bigbasssplash": "bigbasssplash",
+    "big bass splash": "bigbasssplash",
+    "bbs": "bigbasssplash",
+    "bigbasschristmasbash": "bigbasschristmasbash",
+    "big bass christmas bash": "bigbasschristmasbash",
+    "bbcb": "bigbasschristmasbash",
+    "bigbasshalloween": "bigbasshalloween",
+    "big bass halloween": "bigbasshalloween",
+    "bbh": "bigbasshalloween",
+    "bigbassfloatsmyboat": "bigbassfloatsmyboat",
+    "big bass floats my boat": "bigbassfloatsmyboat",
+    "bbfmb": "bigbassfloatsmyboat",
+    "bigbassamazonxtreme": "bigbassamazonxtreme",
+    "big bass amazon xtreme": "bigbassamazonxtreme",
+    "bbax": "bigbassamazonxtreme",
+    "bigbassdayattheraces": "bigbassdayattheraces",
+    "big bass day at the races": "bigbassdayattheraces",
+    "bbdatr": "bigbassdayattheraces",
+    "bigbassholdandspinner": "bigbassholdandspinner",
+    "big bass hold and spinner": "bigbassholdandspinner",
+    "bbhas": "bigbassholdandspinner",
+    "thedoghouse": "thedoghouse",
+    "the dog house": "thedoghouse",
+    "tdh": "thedoghouse",
+    "thedoghousemegaways": "thedoghousemegaways",
+    "the dog house megaways": "thedoghousemegaways",
+    "tdhm": "thedoghousemegaways",
+    "thedoghousemultihold": "thedoghousemultihold",
+    "the dog house multihold": "thedoghousemultihold",
+    "wolfgold": "wolfgold",
+    "wolf gold": "wolfgold",
+    "wg": "wolfgold",
+    "wildwestgold": "wildwestgold",
+    "wild west gold": "wildwestgold",
+    "wwg": "wildwestgold",
+    "wildwestgoldmegaways": "wildwestgoldmegaways",
+    "wild west gold megaways": "wildwestgoldmegaways",
+    "wwgm": "wildwestgoldmegaways",
+    "5lions": "5lions",
+    "5 lions": "5lions",
+    "5l": "5lions",
+    "5lionsgold": "5lionsgold",
+    "5 lions gold": "5lionsgold",
+    "5lg": "5lionsgold",
+    "5lionsmegaways": "5lionsmegaways",
+    "5 lions megaways": "5lionsmegaways",
+    "5lm": "5lionsmegaways",
+    "5lionsdance": "5lionsdance",
+    "5 lions dance": "5lionsdance",
+    "5ld": "5lionsdance",
+    "aztecgems": "aztecgems",
+    "aztec gems": "aztecgems",
+    "ag": "aztecgems",
+    "aztecbonanza": "aztecbonanza",
+    "aztec bonanza": "aztecbonanza",
+    "ab": "aztecbonanza",
+    "fruitparty": "fruitparty",
+    "fruit party": "fruitparty",
+    "fp": "fruitparty",
+    "fruitparty2": "fruitparty2",
+    "fruit party 2": "fruitparty2",
+    "fp2": "fruitparty2",
+    "gemsbonanza": "gemsbonanza",
+    "gems bonanza": "gemsbonanza",
+    "gb": "gemsbonanza",
+    "powerofthormegaways": "powerofthormegaways",
+    "power of thor megaways": "powerofthormegaways",
+    "potm": "powerofthormegaways",
+    "madamedestinymegaways": "madamedestinymegaways",
+    "madame destiny megaways": "madamedestinymegaways",
+    "mdm": "madamedestinymegaways",
+    "mustanggold": "mustanggold",
+    "mustang gold": "mustanggold",
+    "mg": "mustanggold",
+    "jokersjewels": "jokersjewels",
+    "jokers jewels": "jokersjewels",
+    "jj": "jokersjewels",
+    "chilliheat": "chilliheat",
+    "chilli heat": "chilliheat",
+    "ch": "chilliheat",
+    "chilliheatmegaways": "chilliheatmegaways",
+    "chilli heat megaways": "chilliheatmegaways",
+    "chm": "chilliheatmegaways",
+    "extrajuicy": "extrajuicy",
+    "extra juicy": "extrajuicy",
+    "ej": "extrajuicy",
+    "extrajuicymegaways": "extrajuicymegaways",
+    "extra juicy megaways": "extrajuicymegaways",
+    "ejm": "extrajuicymegaways",
+    "floatingdragon": "floatingdragon",
+    "floating dragon": "floatingdragon",
+    "fd": "floatingdragon",
+    "cleocatra": "cleocatra",
+    "hottoburn": "hottoburn",
+    "hot to burn": "hottoburn",
+    "htb": "hottoburn",
+    "hottoburnextreme": "hottoburnextreme",
+    "hot to burn extreme": "hottoburnextreme",
+    "htbe": "hottoburnextreme",
+    "buffaloking": "buffaloking",
+    "buffalo king": "buffaloking",
+    "bk": "buffaloking",
+    "buffalokingmegaways": "buffalokingmegaways",
+    "buffalo king megaways": "buffalokingmegaways",
+    "bkm": "buffalokingmegaways",
+    "zeusvshadesgodsofwar": "zeusvshadesgodsofwar",
+    "zeus vs hades gods of war": "zeusvshadesgodsofwar",
+    "zvhgow": "zeusvshadesgodsofwar",
+    "wisdomofathena": "wisdomofathena",
+    "wisdom of athena": "wisdomofathena",
+    "woa": "wisdomofathena",
+    "piratespub": "piratespub",
+    "pirates pub": "piratespub",
+    "pp": "piratespub",
+    "dragonhero": "dragonhero",
+    "dragon hero": "dragonhero",
+    "dh": "dragonhero",
+    "dragontigerluck": "dragontigerluck",
+    "dragon tiger luck": "dragontigerluck",
+    "dtl": "dragontigerluck",
+    "treasurewild": "treasurewild",
+    "treasure wild": "treasurewild",
+    "tw": "treasurewild",
+    "goldparty": "goldparty",
+    "gold party": "goldparty",
+    "gp": "goldparty",
+    "candyblitzbombs": "candyblitzbombs",
+    "candy blitz bombs": "candyblitzbombs",
+    "cbb": "candyblitzbombs",
+    "juicyfruits": "juicyfruits",
+    "juicy fruits": "juicyfruits",
+    "jf": "juicyfruits",
+    "wildwildriches": "wildwildriches",
+    "wild wild riches": "wildwildriches",
+    "wwr": "wildwildriches",
+    "wildwildrichesmegaways": "wildwildrichesmegaways",
+    "wild wild riches megaways": "wildwildrichesmegaways",
+    "wwrm": "wildwildrichesmegaways",
+    "888dragons": "888dragons",
+    "888 dragons": "888dragons",
+    "8d": "888dragons",
+    "8dragons": "8dragons",
+    "8 dragons": "8dragons",
+    "7piggies": "7piggies",
+    "7 piggies": "7piggies",
+    "7p": "7piggies",
+    "7monkeys": "7monkeys",
+    "7 monkeys": "7monkeys",
+    "7m": "7monkeys",
+    "3kingdoms": "3kingdoms",
+    "3 kingdoms": "3kingdoms",
+    "3k": "3kingdoms",
+    "3geniewishes": "3geniewishes",
+    "3 genie wishes": "3geniewishes",
+    "3gw": "3geniewishes",
+    "mahjongways": "mahjongways",
+    "mahjongways2": "mahjongways2",
+    "fortunetiger": "fortunetiger",
+    "ft": "fortunetiger",
+    "fortunerabbit": "fortunerabbit",
+    "fortune rabbit": "fortunerabbit",
+    "fr": "fortunerabbit",
+    "fortuneox": "fortuneox",
+    "fortune ox": "fortuneox",
+    "fo": "fortuneox",
+    "fortunemouse": "fortunemouse",
+    "fortune mouse": "fortunemouse",
+    "fm": "fortunemouse",
+    "fortunedragon": "fortunedragon",
+    "fortune dragon": "fortunedragon",
+    "fortunesnake": "fortunesnake",
+    "fortune snake": "fortunesnake",
+    "fs": "fortunesnake",
+    "luckyneko": "luckyneko",
+    "ln": "luckyneko",
+    "wildbandito": "wildbandito",
+    "wb": "wildbandito",
+    "caishenwins": "caishenwins",
+    "caishen wins": "caishenwins",
+    "cw": "caishenwins",
+    "caishenwins2": "caishenwins2",
+    "caishen wins 2": "caishenwins2",
+    "cw2": "caishenwins2",
+    "dragonhatch": "dragonhatch",
+    "dragon hatch": "dragonhatch",
+    "dragonhatch2": "dragonhatch2",
+    "dragon hatch 2": "dragonhatch2",
+    "dh2": "dragonhatch2",
+    "ganeshagold": "ganeshagold",
+    "ganesha gold": "ganeshagold",
+    "gg": "ganeshagold",
+    "ganeshafortune": "ganeshafortune",
+    "ganesha fortune": "ganeshafortune",
+    "gf": "ganeshafortune",
+    "treasuresofaztec": "treasuresofaztec",
+    "treasures of aztec": "treasuresofaztec",
+    "toa": "treasuresofaztec",
+    "riseofapollo": "riseofapollo",
+    "rise of apollo": "riseofapollo",
+    "roa": "riseofapollo",
+    "secretofcleopatra": "secretofcleopatra",
+    "secret of cleopatra": "secretofcleopatra",
+    "soc": "secretofcleopatra",
+    "captainsbounty": "captainsbounty",
+    "captains bounty": "captainsbounty",
+    "cb": "captainsbounty",
+    "queenofbounty": "queenofbounty",
+    "queen of bounty": "queenofbounty",
+    "qob": "queenofbounty",
+    "jurassickingdom": "jurassickingdom",
+    "jurassic kingdom": "jurassickingdom",
+    "jk": "jurassickingdom",
+    "mrhallowwin": "mrhallowwin",
+    "mr hallowwin": "mrhallowwin",
+    "mh": "mrhallowwin",
+    "roosterrumble": "roosterrumble",
+    "rooster rumble": "roosterrumble",
+    "rr": "roosterrumble",
+    "genie3wishes": "genie3wishes",
+    "genie 3 wishes": "genie3wishes",
+    "g3w": "genie3wishes",
+    "leprechaunriches": "leprechaunriches",
+    "leprechaun riches": "leprechaunriches",
+    "lr": "leprechaunriches",
+    "midasfortune": "midasfortune",
+    "midas fortune": "midasfortune",
+    "mf": "midasfortune",
+    "candyburst": "candyburst",
+    "candy burst": "candyburst",
+    "cryptogold": "cryptogold",
+    "crypto gold": "cryptogold",
+    "cg": "cryptogold",
+    "hawaiiantiki": "hawaiiantiki",
+    "hawaiian tiki": "hawaiiantiki",
+    "ht": "hawaiiantiki",
+    "hiphoppanda": "hiphoppanda",
+    "hip hop panda": "hiphoppanda",
+    "hhp": "hiphoppanda",
+    "honeytrapofdiaochan": "honeytrapofdiaochan",
+    "honey trap of diao chan": "honeytrapofdiaochan",
+    "htodc": "honeytrapofdiaochan",
+    "operadynasty": "operadynasty",
+    "opera dynasty": "operadynasty",
+    "od": "operadynasty",
+    "phoenixrises": "phoenixrises",
+    "phoenix rises": "phoenixrises",
+    "pr": "phoenixrises",
+    "legendofperseus": "legendofperseus",
+    "legend of perseus": "legendofperseus",
+    "lop": "legendofperseus",
+    "thegreaticescape": "thegreaticescape",
+    "the great icescape": "thegreaticescape",
+    "tgi": "thegreaticescape",
+    "vampirescharm": "vampirescharm",
+    "vampires charm": "vampirescharm",
+    "vc": "vampirescharm",
+    "wildfireworks": "wildfireworks",
+    "wild fireworks": "wildfireworks",
+    "wf": "wildfireworks",
+    "emojiriches": "emojiriches",
+    "emoji riches": "emojiriches",
+    "er": "emojiriches",
+    "songkransplash": "songkransplash",
+    "songkran splash": "songkransplash",
+    "ss": "songkransplash",
+    "battlegroundroyale": "battlegroundroyale",
+    "battleground royale": "battlegroundroyale",
+    "br": "battlegroundroyale",
+    "muaythaichampion": "muaythaichampion",
+    "muay thai champion": "muaythaichampion",
+    "mtc": "muaythaichampion",
+    "ninjaraccoonfrenzy": "ninjaraccoonfrenzy",
+    "ninja raccoon frenzy": "ninjaraccoonfrenzy",
+    "nrf": "ninjaraccoonfrenzy",
+    "totemwonders": "totemwonders",
+    "totem wonders": "totemwonders",
+    "gemsaviour": "gemsaviour",
+    "gem saviour": "gemsaviour",
+    "gs": "gemsaviour",
+    "gemsaviourconquest": "gemsaviourconquest",
+    "gem saviour conquest": "gemsaviourconquest",
+    "gsc": "gemsaviourconquest",
+    "legendofhouyi": "legendofhouyi",
+    "legend of hou yi": "legendofhouyi",
+    "lohy": "legendofhouyi",
+    "prosperitylion": "prosperitylion",
+    "prosperity lion": "prosperitylion",
+    "pl": "prosperitylion",
+    "dreamsofmacau": "dreamsofmacau",
+    "dreams of macau": "dreamsofmacau",
+    "dom": "dreamsofmacau",
+    "luckypiggy": "luckypiggy",
+    "lucky piggy": "luckypiggy",
+    "lp": "luckypiggy",
+    "ravepartyfever": "ravepartyfever",
+    "rave party fever": "ravepartyfever",
+    "rpf": "ravepartyfever",
+    "cruiseroyale": "cruiseroyale",
+    "cruise royale": "cruiseroyale",
+    "cr": "cruiseroyale",
+    "forgeofwealth": "forgeofwealth",
+    "forge of wealth": "forgeofwealth",
+    "fow": "forgeofwealth",
+    "wildcoaster": "wildcoaster",
+    "wild coaster": "wildcoaster",
+    "wc": "wildcoaster",
+    "safariwilds": "safariwilds",
+    "safari wilds": "safariwilds",
+    "sw": "safariwilds",
+    "heiststakes": "heiststakes",
+    "heist stakes": "heiststakes",
+    "hs": "heiststakes",
+    "pinatawins": "pinatawins",
+    "pinata wins": "pinatawins",
+    "pw": "pinatawins",
+    "dinoreels": "dinoreels",
+    "dino reels": "dinoreels",
+    "dr": "dinoreels",
+    "asgardianrising": "asgardianrising",
+    "asgardian rising": "asgardianrising",
+    "ar": "asgardianrising",
+    "gladiatorsglory": "gladiatorsglory",
+    "gladiators glory": "gladiatorsglory",
+    "waysoftheqilin": "waysoftheqilin",
+    "ways of the qilin": "waysoftheqilin",
+    "wotq": "waysoftheqilin",
+    "jackfrostswinter": "jackfrostswinter",
+    "jack frosts winter": "jackfrostswinter",
+    "jfw": "jackfrostswinter",
+    "mermaidriches": "mermaidriches",
+    "mermaid riches": "mermaidriches",
+    "mr": "mermaidriches",
+    "treeoffortune": "treeoffortune",
+    "tree of fortune": "treeoffortune",
+    "tof": "treeoffortune",
+    "reellove": "reellove",
+    "reel love": "reellove",
+    "rl": "reellove",
+    "doublefortune": "doublefortune",
+    "double fortune": "doublefortune",
+    "df": "doublefortune",
+    "plushiefrenzy": "plushiefrenzy",
+    "plushie frenzy": "plushiefrenzy",
+    "pf": "plushiefrenzy",
+    "balivacation": "balivacation",
+    "bali vacation": "balivacation",
+    "bv": "balivacation",
+    "galacticgems": "galacticgems",
+    "galactic gems": "galacticgems",
+    "medusa": "medusa",
+    "medusaii": "medusaii",
+    "medusa ii": "medusaii",
+    "mi": "medusaii",
+    "rabbit": "fortunerabbit",
+    "ox": "fortuneox",
+    "mouse": "fortunemouse",
+    "dragon": "fortunedragon",
+    "snake": "fortunesnake",
+    "aztec": "treasuresofaztec",
+    "caishen2": "caishenwins2",
+    "hatch2": "dragonhatch2",
+    "gates": "gatesofolympus",
+    "olympus": "gatesofolympus",
+    "zeus": "gatesofolympus",
+    "gatesscatter": "gatesofolympussuperscatter",
+    "gates scatter": "gatesofolympussuperscatter",
+    "super scatter": "gatesofolympussuperscatter",
+    "starlight": "starlightprincess",
+    "princess": "starlightprincess",
+    "starlightscatter": "starlightprincesssuperscatter",
+    "starlight scatter": "starlightprincesssuperscatter",
+    "sweet": "sweetbonanza",
+    "bonanza": "sweetbonanza",
+    "sweet2500": "sweetbonanza2500",
+    "sweet 2500": "sweetbonanza2500",
+    "sugar": "sugarrush",
+    "rush": "sugarrush",
+    "sugar1000": "sugarrush1000",
+    "sugar 1000": "sugarrush1000",
+    "sugarscatter": "sugarrushsuperscatter",
+    "sugar scatter": "sugarrushsuperscatter",
+    "bigbass": "bigbassbonanza",
+    "big bass": "bigbassbonanza",
+    "biggerbass": "biggerbassbonanza",
+    "doghouse": "thedoghouse",
+    "dog house": "thedoghouse",
+    "doghousemegaways": "thedoghousemegaways",
+    "wolf": "wolfgold",
+    "wildwest": "wildwestgold",
+    "zeusvshades": "zeusvshadesgodsofwar",
+    "hades": "zeusvshadesgodsofwar",
+    "athena": "wisdomofathena"
   }
 }
