@@ -1,0 +1,162 @@
+{
+  "providers": {
+    "pragmatic": [
+      "Gates of Olympus",
+      "Gates of Olympus 1000",
+      "Gates of Olympus Super Scatter",
+      "Gates of Hades",
+      "Gates of Gatotkaca",
+      "Gates of Gatotkaca 1000",
+      "Starlight Princess",
+      "Starlight Princess 1000",
+      "Sweet Bonanza",
+      "Sweet Bonanza 1000",
+      "Sweet Bonanza 2500",
+      "Sugar Rush",
+      "Sugar Rush 1000",
+      "Wisdom of Athena 1000",
+      "Mahjong Wins 3",
+      "Mahjong Wins Gong Xi Fa Cai",
+      "Jelly Express",
+      "Wild West Gold",
+      "5 Lions Megaways",
+      "The Dog House Megaways",
+      "Bonanza Gold"
+    ],
+    "pgsoft": [
+      "Anubis Wrath",
+      "Mahjong Ways",
+      "Mahjong Ways 2",
+      "Lucky Neko",
+      "Wild Bandito",
+      "Queen of Bounty",
+      "Dreams of Macau",
+      "Fortune Gods",
+      "Fortune Tiger",
+      "Fortune Mouse",
+      "Prosperity Lion",
+      "Ganesha Gold",
+      "Ganesha Fortune",
+      "Treasures of Aztec",
+      "Pinata Wins",
+      "Caishen Wins",
+      "Dragon Hatch",
+      "Speed Winner",
+      "Wild Bounty Showdown",
+      "Cocktail Nights",
+      "Hot Tuna",
+      "Wild Ape #3258"
+    ]
+  },
+  "families": {
+    "zeus": {
+      "title": "GATES OF OLYMPUS SERIES",
+      "provider": "pragmatic",
+      "games": [
+        "Gates of Olympus",
+        "Gates of Olympus 1000",
+        "Gates of Olympus Super Scatter"
+      ]
+    },
+    "starlight": {
+      "title": "STARLIGHT PRINCESS SERIES",
+      "provider": "pragmatic",
+      "games": [
+        "Starlight Princess",
+        "Starlight Princess 1000"
+      ]
+    },
+    "sweet": {
+      "title": "SWEET BONANZA SERIES",
+      "provider": "pragmatic",
+      "games": [
+        "Sweet Bonanza",
+        "Sweet Bonanza 1000",
+        "Sweet Bonanza 2500"
+      ]
+    },
+    "sugar": {
+      "title": "SUGAR RUSH SERIES",
+      "provider": "pragmatic",
+      "games": [
+        "Sugar Rush",
+        "Sugar Rush 1000"
+      ]
+    },
+    "gatot": {
+      "title": "GATES OF GATOTKACA SERIES",
+      "provider": "pragmatic",
+      "games": [
+        "Gates of Gatotkaca",
+        "Gates of Gatotkaca 1000"
+      ]
+    },
+    "mahjong": {
+      "title": "MAHJONG SERIES",
+      "provider": "mixed",
+      "games": [
+        "Mahjong Ways",
+        "Mahjong Ways 2",
+        "Mahjong Wins 3",
+        "Mahjong Wins Gong Xi Fa Cai"
+      ]
+    }
+  },
+  "aliases": {
+    "gates": "zeus",
+    "olympus": "zeus",
+    "zeus": "zeus",
+    "princess": "starlight",
+    "starlight": "starlight",
+    "bonanza": "sweet",
+    "sweet": "sweet",
+    "rush": "sugar",
+    "sugar": "sugar",
+    "gatotkaca": "gatot",
+    "gatot": "gatot",
+    "mw": "mahjong",
+    "mahjong": "mahjong"
+  }
+  ,
+  "single_games": {
+    "mahjongways": { "name": "Mahjong Ways", "provider": "pgsoft" },
+    "mahjongways2": { "name": "Mahjong Ways 2", "provider": "pgsoft" },
+    "luckyneko": { "name": "Lucky Neko", "provider": "pgsoft" },
+    "wildbandito": { "name": "Wild Bandito", "provider": "pgsoft" },
+    "fortunetiger": { "name": "Fortune Tiger", "provider": "pgsoft" },
+    "caishenwins": { "name": "Caishen Wins", "provider": "pgsoft" },
+
+    "gates1000": { "name": "Gates of Olympus 1000", "provider": "pragmatic" },
+    "gatesscatter": { "name": "Gates of Olympus Super Scatter", "provider": "pragmatic" },
+    "starlight1000": { "name": "Starlight Princess 1000", "provider": "pragmatic" },
+    "sweet1000": { "name": "Sweet Bonanza 1000", "provider": "pragmatic" },
+    "sweet2500": { "name": "Sweet Bonanza 2500", "provider": "pragmatic" }
+  }
+  ,
+  "single_aliases": {
+    "mw2": "mahjongways2",
+    "mahjong2": "mahjongways2",
+    "mahjong ways 2": "mahjongways2",
+
+    "mw": "mahjongways",
+    "mahjong ways": "mahjongways",
+
+    "neko": "luckyneko",
+    "lucky neko": "luckyneko",
+
+    "tiger": "fortunetiger",
+    "fortune tiger": "fortunetiger",
+
+    "bandito": "wildbandito",
+    "wild bandito": "wildbandito",
+
+    "gates1000": "gates1000",
+    "gates 1000": "gates1000",
+
+    "sweet1000": "sweet1000",
+    "sweet 1000": "sweet1000",
+
+    "starlight1000": "starlight1000",
+    "starlight 1000": "starlight1000"
+  }
+}
