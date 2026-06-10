@@ -2,6 +2,8 @@ import os
 import json
 import random
 import time
+import threading
+from flask import Flask
 from datetime import datetime, timedelta
 
 from dotenv import load_dotenv
@@ -10,6 +12,15 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 
 load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
+web_app = Flask(__name__)
+
+@web_app.route("/")
+def home():
+    return "Bot is running"
+
+def run_web():
+    port = int(os.environ.get("PORT", 10000))
+    web_app.run(host="0.0.0.0", port=port)
 
 AUTO_SPIN = {
     "pragmatic": [10, 20, 30, 50],
@@ -272,6 +283,7 @@ def main():
     if not BOT_TOKEN:
         raise ValueError("BOT_TOKEN belum diisi di file .env")
 
+    threading.Thread(target=run_web, daemon=True).start()
     app = Application.builder().token(BOT_TOKEN).build()
 
     data = load_games()
