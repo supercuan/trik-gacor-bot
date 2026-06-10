@@ -2,6 +2,7 @@ import os
 import json
 import random
 import time
+import re
 import threading
 from flask import Flask
 from datetime import datetime, timedelta
@@ -207,9 +208,20 @@ async def text_detector(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     LAST_REPLY_TIME = now
 
+    # family alias detect dulu
+    for alias, family_key in data["aliases"].items():
+        pattern = r"\b" + re.escape(alias) + r"\b"
+        if re.search(pattern, text):
+            await update.message.reply_text(
+                build_family_text(family_key),
+                parse_mode="HTML"
+            )
+            return
+
     # single game alias detect
-    for alias, game_key in data.get("single_aliases", {}).items():
-        if alias in text:
+    for alias, game_key in sorted(data.get("single_aliases", {}).items(), key=lambda x: len(x[0]), reverse=True):
+        pattern = r"\b" + re.escape(alias) + r"\b"
+        if re.search(pattern, text):
             await update.message.reply_text(
                 build_single_game_text(game_key),
                 parse_mode="HTML"
@@ -228,12 +240,6 @@ async def text_detector(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if "random" in text or "acak" in text:
         await update.message.reply_text(build_random_text(), parse_mode="HTML")
         return
-
-    # family alias detect
-    for alias, family_key in data["aliases"].items():
-        if alias in text:
-            await update.message.reply_text(build_family_text(family_key), parse_mode="HTML")
-            return
 
 async def family_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     data = load_games()
