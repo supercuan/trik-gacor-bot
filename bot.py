@@ -50,9 +50,12 @@ def load_games():
         return json.load(f)
 
 def jam_gacor():
-    now = datetime.now()
+    # UTC+7 / WIB time
+    now = datetime.utcnow() + timedelta(hours=7)
+
     start = now + timedelta(minutes=random.randint(3, 35))
     end = start + timedelta(minutes=random.randint(45, 120))
+
     return f"{start:%H.%M} - {end:%H.%M}"
 
 def manual_spin():
