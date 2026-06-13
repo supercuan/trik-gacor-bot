@@ -28,7 +28,7 @@ AUTO_SPIN = {
     "pgsoft": [10, 30, 50, 80],
 }
 
-MAIN_OTOMATIS = ["✅❎✅", "❎✅✅", "✅✅❎", "❎✅❎"]
+MAIN_OTOMATIS = ["✅❌✅", "❌✅✅", "✅❌❌", "❌✅❌"]
 LAST_REPLY_TIME = 0
 COOLDOWN_SECONDS = 5
 
